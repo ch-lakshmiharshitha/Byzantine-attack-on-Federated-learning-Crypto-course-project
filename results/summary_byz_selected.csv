@@ -1,0 +1,8 @@
+attack,bulyan,fltrust,krum,multi_krum
+alie,0.333,0.21,1.0,0.25
+gaussian,0.0,0.112,0.0,0.0
+ipm,0.276,0.0,0.122,0.247
+label_flip,0.015,0.026,0.0,0.001
+minmax,0.194,0.154,0.0,0.128
+scaling,0.083,0.0,0.0,0.0
+sign_flip,0.0,0.022,0.0,0.001
